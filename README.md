@@ -10,6 +10,6 @@
 
 А также для просмотра дизайна использользуется программа \- _Figma_.
 
-*__Дизайн сайта__
+### Дизайн сайта
 
 [Дизайн с сайта Figma](https://www.figma.com/file/gzJ2NlsAYe5sGJQbyNMQ8f/Templates-%2324.-More-on-d-e-n.info?node-id=2%3A362)
